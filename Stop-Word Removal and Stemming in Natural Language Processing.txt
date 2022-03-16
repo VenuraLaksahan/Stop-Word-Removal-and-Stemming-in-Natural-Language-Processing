@@ -1,0 +1,13 @@
+Stop-Word Removal and Stemming in Natural Language Processing
+
+Stop-Word Removal 
+ 
+Remove all stop words in the word list that generated from Word Tokenization. 
+Generate the list-of words as final output. 
+Write separate functions for each step.
+
+Text Stemming 
+ 
+Apply stemming algorithm to the list of words generated from Stop-word Removal. (Use Porter-Stemming algorithm.) 
+List out all words after stemming.
+
